@@ -1,0 +1,22 @@
+{
+  "name": "task-app-fully-loaded",
+  "version": "1.0.0",
+  "description": "Demo application for mongo db, email, file upload and much more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishalsrivastavaofficial/task-app-fully-loaded.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishalsrivastavaofficial/task-app-fully-loaded/issues"
+  },
+  "homepage": "https://github.com/vishalsrivastavaofficial/task-app-fully-loaded#readme",
+  "dependencies": {
+    "mongodb": "^3.5.7"
+  }
+}
